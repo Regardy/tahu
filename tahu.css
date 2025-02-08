@@ -5,10 +5,10 @@
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 :root {
-    --theme-background-image: url(https://xasya.github.io/theme/upd/chika-vs-bedrock/Chika-Vs-Bedrock.gif);
-    --home-icon-image: url(https://xasya.github.io/theme/upd/chika-vs-bedrock/Fr_Ico.jpg);
-    --main-theme-color: rgb(67, 181, 129);
-    --theme-transparency: rgba(0, 0, 0, 0.8);
+    --theme-background-image: url(https://i.pinimg.com/originals/f2/2e/19/f22e19217479b2452026718bb4c94417.gif);
+    --home-icon-image: url(https://media.tenor.com/uGIHoWFPiukAAAAj/%D1%87%D1%82%D0%BE-%D1%82%D0%BE.gif);
+    --main-theme-color: rgb(61, 88, 196);
+    --theme-transparency: rgba(47, 140, 255, 1);
     --home-icon-image-position: right center;
     --home-icon-image-zoom: 170%;
     --server-listing-width: 64px;
